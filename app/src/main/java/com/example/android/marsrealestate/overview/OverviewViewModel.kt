@@ -52,7 +52,7 @@ class OverviewViewModel : ViewModel() {
         getMarsRealEstateProperties()
     }
 
-    /**
+    /**gg
      * Sets the value of the status LiveData to the Mars API status.
      */
     private fun getMarsRealEstateProperties() {
